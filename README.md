@@ -29,12 +29,12 @@ This project is a **Streamlit-based application** designed for multi-user docume
    ```bash  
    git clone https://github.com/SanaFalak/multiuser_search_system.git
 
-**Move to project directory**
-2. cd project-directory  
+2. **Move to project directory**
+   cd project-directory  
 
-**Install requirements**
-3. pip install -r requirements.txt  
+3. **Install requirements**
+   pip install -r requirements.txt  
 
-**Run application**
-4. streamlit run app.py  
+4. **Run application**
+   streamlit run app.py  
 
