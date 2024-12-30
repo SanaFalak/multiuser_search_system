@@ -1,0 +1,17 @@
+{
+    "ceo@company.com": {
+        "password": "ceo123",
+        "accessible_docs": ["Health Plans", "ML reports"],
+        "role": "executive"
+    },
+    "manager@company.com": {
+        "password": "manager123",
+        "accessible_docs": ["Health Plans"],
+        "role": "manager"
+    },
+    "intern@company.com": {
+        "password": "intern123",
+        "accessible_docs": ["company_policies", "support_docs"],
+        "role": "intern"
+    }
+}

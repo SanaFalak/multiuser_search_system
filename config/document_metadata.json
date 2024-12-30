@@ -1,0 +1,45 @@
+{
+    "Health Plans": {
+        "description": "Health documents",
+        "access_level": "executive",
+        "documents": [
+            {
+                "id": "1",
+                "path": "C:/Users/Mujta/Documents/Projects/llm_LEARNING/multi_user_search_system/rag/docs/health/Effects of gum chewing training on oral.pdf",
+                "title": "Effects of gum chewing training on oral"
+            },
+            {
+                "id": "2",
+                "path": "C:/Users/Mujta/Documents/Projects/llm_LEARNING/multi_user_search_system/rag/docs/health/Oral microbiome possible harbinger for childrens health.pdf",
+                "title": "Oral microbiome possible harbinger for childrens health"
+            },
+            {
+                "id": "3",
+                "path": "C:/Users/Mujta/Documents/Projects/llm_LEARNING/multi_user_search_system/rag/docs/health/The Effect of Professional Oral Care on the Oral Health Status.pdf",
+                "title": "The Effect of Professional Oral Care on the Oral Health Status"
+            }
+        ]
+    },
+    "ML reports": {
+        "description": "Ai documents",
+        "access_level": "manager",
+        "documents": [
+            {
+                "id": "4",
+                "path": "C:/Users/Mujta/Documents/Projects/llm_LEARNING/multi_user_search_system/rag/docs/ml/attention_paper.pdf",
+                "title": "attention_paper"
+            },
+            {
+                "id": "5",
+                "path": "C:/Users/Mujta/Documents/Projects/llm_LEARNING/multi_user_search_system/rag/docs/ml/Large Language Models for Market Research.pdf",
+                "title": "Large Language Models for Market Research"
+            },
+            {
+                "id": "6",
+                "path": "C:/Users/Mujta/Documents/Projects/llm_LEARNING/multi_user_search_system/rag/docs/ml/Neural Networks Perform Sufficient Dimension Reduction.pdf",
+                "title": "Neural Networks Perform Sufficient Dimension Reduction"
+            }
+        ]
+    }
+
+}
